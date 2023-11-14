@@ -14,7 +14,7 @@ A Telegram bot written in Python to interact with the Advent of Code (AoC) websi
 ### Prerequisites
 
 - Python 3.x
-- Install dependencies: `pip install -r requirements.txt`.
+- Install dependencies: `pip install -r requirements.txt`
 
 ### Environment Variables
 - `TELEGRAM_BOT_TOKEN`: Your Telegram bot token.
